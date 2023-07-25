@@ -10,5 +10,6 @@ Minimal countdown timer with user input and a set timer for pomodoro study sessi
 Working on for ver 1.2:
 - Pause/unpause functionality
 - Cancel/return to main screen while running functionality.
+- Count and display number of sessions.
 
 Feel free to use and modify to your preferences.
