@@ -7,6 +7,11 @@ Minimal countdown timer with user input and a set timer for pomodoro study sessi
 3.) Start with pomodoro timer (50 mins) - this is the 50 min w/ 10 min break pomodoro mode.
 4.) Exit - to exit the application.
 
+
+Versions:
+- ver 1.12 - added 50 min timer
+- ver 1.13 - removed repeat option so it auto repeats (might add these as seperate options instead of replacing entirely in next build - will see how it goes)
+
 Working on for ver 1.2:
 - Pause/unpause functionality
 - Cancel/return to main screen while running functionality.
