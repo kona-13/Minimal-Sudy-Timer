@@ -1,4 +1,4 @@
-# Minimal-Timer
+# Minimal-Study-Timer
 Minimalist version of Timer w/ built in 45 & 50 min Pomodoro timer.
 
 Minimal countdown timer with user input and a set timer for pomodoro study sessions (tailored to my personal study sessions).
