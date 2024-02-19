@@ -5,7 +5,7 @@ Minimal countdown timer with user input and a set timer for pomodoro study sessi
 1.) Start - this is the user input mode. - User input for hour followed by minutes followed by seconds.
 2.) Start with pomodoro timer (45 mins) - this is the 45 min w/ 15 min break pomodoro mode.
 3.) Start with pomodoro timer (50 mins) - this is the 50 min w/ 10 min break pomodoro mode.
-4.) Start with pomoforo timer (25 mins) - this is the 25 min w/ 5 min break pomodoro mode.
+4.) Start with pomodoro timer (25 mins) - this is the 25 min w/ 5 min break pomodoro mode.
 5.) Exit - to exit the application.
 
 
