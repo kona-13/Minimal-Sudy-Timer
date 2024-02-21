@@ -18,6 +18,7 @@ Versions:
 - ver 1.12 - added 50 min timer
 - ver 1.13 - removed repeat option so it auto repeats (might add these as seperate options instead of replacing entirely in next build - will see how it goes)
 - ver 1.14 - added 25 min repeating timer
+- ver 1.14 (linux): replaces winsounds with pygame so that the sound works on linux (tested only on pixelbook w/ penguin)
 
 Working on for ver 1.2:
 - Pause/unpause functionality
